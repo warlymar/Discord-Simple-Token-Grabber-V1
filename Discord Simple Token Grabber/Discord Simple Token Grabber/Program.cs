@@ -12,7 +12,6 @@ namespace CHANGE_NAMESPACE_TO_YOUR_NAMESPACE_IF_YOU_WANT_TO_USE_THIS_IN_YOUR_OWN
     internal static class Candy
     {
         // If you want to use this make sure to build it as "Release" to remove debug console logging
-        private static readonly string webhook = ""; // Your webhook goes here
         
         internal static void Main()
         {
